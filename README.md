@@ -1,4 +1,6 @@
-# Nixos configuration 🐸
+# Nixos configuration 🐸 (DEPRECATED)
+
+**This repository is deprecated and won't be updated anymore. It now lives on [`home`](https://gitlab.com/vdemeester/home) (on Gitlab)**
 
 This is my nixos configuration, commonly used on all my
 nixos-enabled computers.
